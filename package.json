@@ -1,5 +1,7 @@
 {
-  "name": "curation2",
+  "name": "curation",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }

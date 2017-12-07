@@ -4,9 +4,9 @@ This is a general outline of my plan for curation.
 
 ## Version 0.1.0: Login and Heroku
 
-* Switch to PostgreSQL
-* Use [Yarn](https://yarnpkg.com/en/) to install [Bootstrap](http://getbootstrap.com)
-* Create Static Pages
+* Switch to PostgreSQL ✓
+* Use [Yarn](https://yarnpkg.com/en/) to install [Bootstrap](http://getbootstrap.com) ✓
+* Create Static Pages ✓
 * Integrate [Devise](https://github.com/plataformatec/devise) for Authentication
 * Setup an Email System
 * Integrate [OmniAuth](https://github.com/omniauth/omniauth/) Login for [Github](https://github.com/intridea/omniauth-github)
